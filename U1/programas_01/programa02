@@ -1,0 +1,2 @@
+verdadero=True
+print( " boolean" ,verdadero ,"enteros: ", 3 , 4 , " doubles: ", 3.04 , 7.2 ,  " cadena de caracteres : hola buenos dias")
