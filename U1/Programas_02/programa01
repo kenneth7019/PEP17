@@ -1,0 +1,14 @@
+#------------------------------------------------------
+#programa01
+#Escribe un programa que cree cuatro variables que almacenen respectivamente un
+#entero, un float, un booleano y una cadena de caracteres. A continuación que muestre por
+#pantalla en valor de cada una de ellas y el tipo de datos de los objetos a los que apuntan.
+#-----------------------------------------------------------------------------------------------
+
+numeroEntrero = 2;
+numeroFloat = 3.14;
+cadena = "hola python";
+
+print(numeroEntrero, type(numeroEntrero));
+print(numeroFloat, type(numeroFloat));
+print(cadena, type(cadena));

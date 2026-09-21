@@ -1,2 +1,9 @@
-verdadero=True
-print( " boolean" ,verdadero ,"enteros: ", 3 , 4 , " doubles: ", 3.04 , 7.2 ,  " cadena de caracteres : hola buenos dias")
+# ---------------------------------------------------------------
+# programa02: literales y su tipo de dato
+# ---------------------------------------------------------------
+print(True, type(True))
+print(7, type(7))
+print(-25, type(-25))
+print(3.14, type(3.14))
+print(2.5e3, type(2.5e3))
+print("Hola Python", type("Hola Python"))

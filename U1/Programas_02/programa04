@@ -1,0 +1,12 @@
+#---------------------------------------------------
+#programa04
+#Escribe un programa que pregunte la base y altura de una rectángulo y calcule su área y
+#perímetro.
+#---------------------------------------------------------------
+base = float(input("Dime la base "))
+altura = float(input("Dime la altura "))
+area = base * altura
+perimetro = 2 * (base + altura)
+
+print("Area: ", area)
+print("Perimetro: ", perimetro)

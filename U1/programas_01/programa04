@@ -1,0 +1,4 @@
+# ---------------------------------------------------------------
+# programa04: una sola llamada a print() con tres argumentos
+# ---------------------------------------------------------------
+print("Soy estudiante del", "IES Leonardo Da Vinci.", "Del ciclo DAW.", sep="\n")
